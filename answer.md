@@ -4,7 +4,7 @@
 
 ## Задача 2.   
 ### цвет фона  
-![image](https://user-images.githubusercontent.com/113675674/223716462-4f74ea1e-a6eb-489a-81c3-7051af9ca81d.png)  
+![image](https://user-images.githubusercontent.com/113675674/223775566-dddb0a04-1ebc-45ef-8145-80fd2538ec58.png)  
 
 ## Задача 3.   
 ###   отображения текста  
