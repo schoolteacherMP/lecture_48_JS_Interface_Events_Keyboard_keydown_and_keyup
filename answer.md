@@ -9,3 +9,9 @@
 ## Задача 3.   
 ###   отображения текста  
 ![image](https://user-images.githubusercontent.com/113675674/223733287-c2cd9e51-c46f-4173-9e8c-6735258b9bcf.png)  
+
+## Задача 4.   
+### Счетчик нажатий клавиш  
+![image](https://user-images.githubusercontent.com/113675674/223772369-05e680b1-b025-4915-99df-77882c68a6d8.png)  
+
+
