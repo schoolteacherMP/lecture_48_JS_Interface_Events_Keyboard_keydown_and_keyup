@@ -20,8 +20,26 @@ PS: `event.shiftKey` - для `"Shift"`
   `background-color: white;`  
 `}`  
 
+
 ## Задача 3.   
-### 
+###   отображения текста  
+Создание простого приложения для отображения текста при нажатии на клавишу.  
+`word-wrap: break-word;` - чтобы текст, который не влазит в div, переносился на новую строку.  
+PS: `textContent`, `event.key`   
+
+`HTML`  
+`<div id="output"></div>`  
+`CSS`  
+`#output{`  
+  `width: 300px;`  
+  `height: 200px;`  
+  `background-color:blueviolet;`  
+  `color: azure;`  
+  `position: absolute;`  
+  `top: 0;`  
+  `word-wrap: break-word;`  
+`}`  
+
 
 ## Задача 4.   
 ### 
