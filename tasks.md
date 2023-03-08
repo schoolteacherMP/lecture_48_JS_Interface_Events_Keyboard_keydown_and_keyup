@@ -42,7 +42,19 @@ PS: `textContent`, `event.key`
 
 
 ## Задача 4.   
-### 
+### Счетчик нажатий клавиш  
+Напишите код, который позволит подсчитать колличество нажатых клавиш и обновляет отображение счетчика в элементе с `id="count"`.  
+`HTML`  
+`<div class="wrapper_count">Нажато клавиш: <span id="count">0</span></div>`  
+`CSS`  
+`.wrapper_count{`  
+  `width: 300px;`  
+  `height: 50px;`  
+  `background-color:blue;`  
+  `color: azure;`  
+  `position: absolute;`  
+  `top: 200px;`  
+`}`  
 
 ## Задача 5.   
 ### 
