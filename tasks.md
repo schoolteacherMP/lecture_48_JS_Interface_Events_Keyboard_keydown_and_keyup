@@ -16,8 +16,8 @@ PS: `event.shiftKey` - для `"Shift"`
 `CSS`  
 `#myDiv {`  
   `width: 100%;`  
-  `height: 100vh;`  
-  `background-color: white;`  
+  `height: 200px;`  
+  `background-color: green;`  
 `}`  
 
 
@@ -35,8 +35,6 @@ PS: `textContent`, `event.key`
   `height: 200px;`  
   `background-color:blueviolet;`  
   `color: azure;`  
-  `position: absolute;`  
-  `top: 0;`  
   `word-wrap: break-word;`  
 `}`  
 
@@ -51,13 +49,29 @@ PS: `textContent`, `event.key`
   `width: 300px;`  
   `height: 50px;`  
   `background-color:blue;`  
-  `color: azure;`  
-  `position: absolute;`  
-  `top: 200px;`  
+  `color: azure;`    
 `}`  
 
+
 ## Задача 5.   
-### 
+### Отображение символа, нажатого пользователем, на экране.  
+`HTML`  
+ `<div class="wrapper_result">`  
+   `<h2>Введите символ:</h2>`  
+   `<p id="result"></p>`  
+ `</div>`  
+   `CSS`  
+`.wrapper_result{`  
+  `width: 300px;`  
+  `height: 100px;`  
+  `background-color:chocolate;`  
+`}`  
+`#result{`  
+  `font-size: 46px;`  
+  `margin: 0 auto;`  
+  `width: 100px;`  
+`}`  
+   
 
 ## Задача 6.   
 ### 
