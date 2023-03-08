@@ -14,4 +14,7 @@
 ### Счетчик нажатий клавиш  
 ![image](https://user-images.githubusercontent.com/113675674/223772369-05e680b1-b025-4915-99df-77882c68a6d8.png)  
 
+## Задача 5.   
+### Отображение символа, нажатого пользователем, на экране.  
+![image](https://user-images.githubusercontent.com/113675674/223778381-4ee8fe3a-2da0-4aa5-90f5-86427ca00a78.png)  
 
