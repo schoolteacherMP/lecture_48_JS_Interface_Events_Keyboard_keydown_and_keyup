@@ -18,3 +18,6 @@
 ### Отображение символа, нажатого пользователем, на экране.  
 ![image](https://user-images.githubusercontent.com/113675674/223778381-4ee8fe3a-2da0-4aa5-90f5-86427ca00a78.png)  
 
+## Задача 6.   
+### Увеличение размера шрифта при зажатой клавише Shift.  
+![image](https://user-images.githubusercontent.com/113675674/223781487-9c8ffc92-d2cb-4e6d-ab83-7f713b35fe84.png)  
