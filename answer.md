@@ -21,3 +21,7 @@
 ## Задача 6.   
 ### Увеличение размера шрифта при зажатой клавише Shift.  
 ![image](https://user-images.githubusercontent.com/113675674/223781487-9c8ffc92-d2cb-4e6d-ab83-7f713b35fe84.png)  
+
+## Задача 7.   
+### Увеличение размера шрифта при зажатой клавише Shift + Click.  
+![image](https://user-images.githubusercontent.com/113675674/232716623-631a18f0-4408-444e-b57d-1aba6ec4ec04.png)  
