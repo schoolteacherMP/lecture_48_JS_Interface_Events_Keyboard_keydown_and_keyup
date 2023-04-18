@@ -1,6 +1,7 @@
 ## Задача 1.   
-### "q" и "w"  
-![image](https://user-images.githubusercontent.com/113675674/223714872-15537298-8565-48c2-ade2-2189c4d0f8a8.png)  
+### "shift" и "w"   
+![image](https://user-images.githubusercontent.com/113675674/232829201-26bdfb21-e674-404c-b95e-5599094d5ffc.png)  
+
 
 ## Задача 2.   
 ### цвет фона  
