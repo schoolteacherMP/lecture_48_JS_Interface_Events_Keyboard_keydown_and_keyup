@@ -1,5 +1,6 @@
 # lecture_48_JS_Interface_Events_Keyboard_keydown_and_keyup
 
+
 #  [Задачи ](https://github.com/schoolteacherMP/lecture_48_JS_Interface_Events_Keyboard_keydown_and_keyup/blob/main/tasks.md)  
 
 Нажатие клавиши всегда генерирует клавиатурное событие, будь то буквенно-цифровая клавиша или специальная типа `Shift` или `Ctrl` и т.д. Единственным исключением является клавиша `Fn`, которая присутствует на клавиатуре некоторых ноутбуков. События на клавиатуре для неё нет, потому что она обычно работает на уровне более низком, чем даже ОС.  
