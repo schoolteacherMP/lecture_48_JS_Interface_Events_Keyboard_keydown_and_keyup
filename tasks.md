@@ -25,7 +25,9 @@ PS: `event.shiftKey` - для `"Shift"`
 ###   отображения текста  
 Создание простого приложения для отображения текста при нажатии на клавишу.  
 `word-wrap: break-word;` - чтобы текст, который не влазит в div, переносился на новую строку.  
+Т.е. при нажатии на клавишу, должно отображаться в `<div id="output">` значение клавиши которое вы нажали.  
 PS: `textContent`, `event.key`   
+![image](https://github.com/schoolteacherMP/lecture_48_JS_Interface_Events_Keyboard_keydown_and_keyup/assets/113675674/56e9f6c9-dff7-4132-a753-7e2abb23ff3d)  
 
 `HTML`  
 `<div id="output"></div>`  
