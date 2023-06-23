@@ -99,6 +99,10 @@ PS: `style.fontSize = '2em';`
 Кнопка button1 увеличивает размер шрифта на 2 пикселя при клике, если при этом зажата клавиша Shift.   
 Кнопка button2 уменьшает размер шрифта на 2 пикселя при клике, если при этом зажата клавиша Shift.    
 PS: Размер шрифта начинается с 16 пикселей и изменяется для всех div-элементов на странице.  
+![image](https://github.com/schoolteacherMP/lecture_48_JS_Interface_Events_Keyboard_keydown_and_keyup/assets/113675674/57d9ca4e-acda-4014-8d6c-25d9ad03708d)  
+![image](https://github.com/schoolteacherMP/lecture_48_JS_Interface_Events_Keyboard_keydown_and_keyup/assets/113675674/4fb7d488-6bf3-4f81-82b1-b7c8f245ed6b)  
+
+
 
 `<button id="button1">Нажми, удерживая 'Shift', что бы +</button>`  
     `<button id="button2">Нажми, удерживая 'Shift', что бы -</button>`  
