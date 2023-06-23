@@ -2,6 +2,8 @@
 ### "shift" и "w"  
 Когда пользователь нажимает клавиши `"shift"` и `"w"` одновременно, вывести с помощью `alert()` сообщение: `'Ответ на главный вопрос жизни, вселенной и вообще - 42'.`    
 Нужно добавить обработчик события нажатия клавиш на документ. Когда пользователь нажимает клавиши `"shift"` и `"w"` одновременно, обработчик события проверяет, соответствует ли код нажатой клавиши `"KeyQ"` и `"KeyW"`. Если это так, то вызывается функция `alert()`, которая выводит сообщение.  
+![image](https://github.com/schoolteacherMP/lecture_48_JS_Interface_Events_Keyboard_keydown_and_keyup/assets/113675674/37908ea4-8694-4511-9f8d-179c864cec68)  
+
 
 ## Задача 2.   
 ### цвет фона  
@@ -44,6 +46,7 @@ PS: `textContent`, `event.key`
 ## Задача 4.   
 ### Счетчик нажатий клавиш  
 Напишите код, который позволит подсчитать колличество нажатых клавиш и обновляет отображение счетчика в элементе с **id="count"**.  
+![image](https://github.com/schoolteacherMP/lecture_48_JS_Interface_Events_Keyboard_keydown_and_keyup/assets/113675674/ee919dd4-20aa-40bb-b007-1cca942e3b5b)  
 
 `HTML`  
 `<div class="wrapper_count">Нажато клавиш: <span id="count">0</span></div>`  
@@ -59,6 +62,7 @@ PS: `textContent`, `event.key`
 ## Задача 5.   
 ### Отображение символа, нажатого пользователем, на экране.  
 Напишите код, который будет отображать в параграфе **id="result"**  символ, который нажал пользователь, как только пользователь отпустил клавишу символ должен исчезать из параграфа **id="result"** .   
+![image](https://github.com/schoolteacherMP/lecture_48_JS_Interface_Events_Keyboard_keydown_and_keyup/assets/113675674/106743a5-9df0-4aa5-8243-2bdea279acc5)  
 
 `HTML`  
  `<div class="wrapper_result">`  
@@ -82,6 +86,9 @@ PS: `textContent`, `event.key`
 ### Увеличение размера шрифта при зажатой клавише Shift.  
 Напишите код, который будет увеличивать размер шрифта в `h2` на `'2em'`, когда пользователь нажмет клавишу `Shift` и возвращать в первоначальное состояние, когда пользователь отпустит клавишу `Shift`.   
 PS: `style.fontSize = '2em';`  
+![image](https://github.com/schoolteacherMP/lecture_48_JS_Interface_Events_Keyboard_keydown_and_keyup/assets/113675674/cf73e86e-10d7-4501-a979-40bd2fcffcd1)  
+![image](https://github.com/schoolteacherMP/lecture_48_JS_Interface_Events_Keyboard_keydown_and_keyup/assets/113675674/7652e41a-139c-42dc-9534-615155742b98)  
+
 
 `HTML` 
 `<h2 id="test_shift">Нажмите на клавишу Shift</h2>`   
