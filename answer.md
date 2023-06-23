@@ -24,5 +24,18 @@
 ![image](https://user-images.githubusercontent.com/113675674/223781487-9c8ffc92-d2cb-4e6d-ab83-7f713b35fe84.png)  
 
 ## Задача 7.   
+### СЕКРЕТНАЯ последовательность клавиш A, B, C  
+![image](https://github.com/schoolteacherMP/lecture_48_JS_Interface_Events_Keyboard_keydown_and_keyup/assets/113675674/a57b28ec-5fac-4364-9e74-87bd1c2fa9a7)  
+
+
+## Задача 8.   
 ### Увеличение размера шрифта при зажатой клавише Shift + Click.  
 ![image](https://user-images.githubusercontent.com/113675674/232716623-631a18f0-4408-444e-b57d-1aba6ec4ec04.png)  
+
+## Задача 9.   
+### Задача на предотвращение действий по умолчанию при нажатии определенных клавиш:  
+![image](https://github.com/schoolteacherMP/lecture_48_JS_Interface_Events_Keyboard_keydown_and_keyup/assets/113675674/a4e36a40-23a4-43f7-b96d-4b59b496c70d)  
+![image](https://github.com/schoolteacherMP/lecture_48_JS_Interface_Events_Keyboard_keydown_and_keyup/assets/113675674/f348739f-2c33-4a1c-a9ac-433755b40e6f)  
+
+
+
