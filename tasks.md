@@ -100,7 +100,14 @@ PS: `style.fontSize = '2em';`
 Если это так, выведите в alert: "Нажата СЕКРЕТНАЯ последовательность клавиш A, B, C".  
 Затем следует задать вопрос с помощью confirm: Вы осознаете последствия?  
 И если нажата клавиша OK - показать на весь экран картинку (произвольную), должна перекрыть весь экран.  
-По истечению 3 секунд она должна исчесзнуть.  PS: на помощь придет [setTimeout](https://developer.mozilla.org/ru/docs/Web/API/setTimeout).   
+По истечению 3 секунд она должна исчесзнуть.  
+PS: на помощь придет [setTimeout](https://developer.mozilla.org/ru/docs/Web/API/setTimeout).   
+Скачать гифку можно [тут](https://gifer.com/ru/7B97)  
+
+https://github.com/schoolteacherMP/lecture_48_JS_Interface_Events_Keyboard_keydown_and_keyup/assets/113675674/c7c8ca07-a823-496b-9158-e26ab5863e71   
+
+
+
 
 
 ## Задача 8.   
