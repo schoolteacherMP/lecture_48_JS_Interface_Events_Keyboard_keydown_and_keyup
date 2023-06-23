@@ -98,7 +98,8 @@ PS: `style.fontSize = '2em';`
 Есть две кнопки: button1 и button2, а также три блока текста, которые будут изменять свой размер шрифта при клике на кнопки.  
 Кнопка button1 увеличивает размер шрифта на 2 пикселя при клике, если при этом зажата клавиша Shift.   
 Кнопка button2 уменьшает размер шрифта на 2 пикселя при клике, если при этом зажата клавиша Shift.    
-PS: Размер шрифта начинается с 16 пикселей и изменяется для всех div-элементов на странице.  
+PS: Размер шрифта начинается с 16 пикселей и изменяется для всех div-элементов на странице.   
+Следует воспользоваться в обработчике методом передора forEach. А для этого у вас должна быть коллекция элементов ;)  
 ![image](https://github.com/schoolteacherMP/lecture_48_JS_Interface_Events_Keyboard_keydown_and_keyup/assets/113675674/57d9ca4e-acda-4014-8d6c-25d9ad03708d)  
 ![image](https://github.com/schoolteacherMP/lecture_48_JS_Interface_Events_Keyboard_keydown_and_keyup/assets/113675674/4fb7d488-6bf3-4f81-82b1-b7c8f245ed6b)  
 
